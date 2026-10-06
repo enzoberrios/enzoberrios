@@ -24,7 +24,7 @@
 ## `$ whoami`
 
 <p align="center">
-  <img src="assets/whoami-citypop.svg" width="960" alt="Terminal city-pop con el perfil de Enzo, DevOps Engineer">
+  <img src="assets/whoami.svg" width="960" alt="Terminal city-pop con el perfil de Enzo, DevOps Engineer">
 </p>
 
 <br>
