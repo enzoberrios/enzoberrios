@@ -1,0 +1,30 @@
+{
+  "title": "DevOps Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these to match your real level.",
+  "axes": [
+    {
+      "label": "Docker/Infra",
+      "value": 60
+    },
+    {
+      "label": "CI/CD",
+      "value": 50
+    },
+    {
+      "label": "Scripting",
+      "value": 65
+    },
+    {
+      "label": "Databases",
+      "value": 55
+    },
+    {
+      "label": "Automation",
+      "value": 60
+    },
+    {
+      "label": "Cloud",
+      "value": 40
+    }
+  ]
+}

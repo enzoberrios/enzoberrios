@@ -1,0 +1,26 @@
+{
+  "title": "Language Stack",
+  "_comment": "Values 0-100. Edit to match your real stack.",
+  "axes": [
+    {
+      "label": "Bash/Shell",
+      "value": 65
+    },
+    {
+      "label": "Python",
+      "value": 55
+    },
+    {
+      "label": "PowerShell",
+      "value": 50
+    },
+    {
+      "label": "YAML",
+      "value": 60
+    },
+    {
+      "label": "SQL",
+      "value": 45
+    }
+  ]
+}
